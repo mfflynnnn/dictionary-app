@@ -6,9 +6,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Hello world!</header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
         <footer className="App-footer">
           This dictionary app was coded by Molly Flynn. High five!

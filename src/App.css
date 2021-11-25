@@ -1,12 +1,12 @@
 .App {
   text-align: center;
-  margin-top: 30px;
 }
 
 .App {
-  background: blueviolet;
+  background: #fcf8f3;
+  color: #698474;
 }
 
 .App-footer {
-  margin-top: 30px;
+  margin: 30px 0;
 }
