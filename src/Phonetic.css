@@ -13,7 +13,8 @@
 }
 
 .Phonetic a:hover {
-  background: purple;
+  background: #688474;
+  border-color: #688474;
   color: white;
 }
 

@@ -10,7 +10,23 @@ function App() {
           <Dictionary defaultKeyword="hello" />
         </main>
         <footer className="App-footer">
-          This dictionary app was coded by Molly Flynn. High five!
+          This{" "}
+          <a
+            href="https://github.com/mfflynnnn/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open source
+          </a>
+          &nbsp;dictionary app was coded by{" "}
+          <a
+            href="https://linktr.ee/mollymflynn"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Molly Flynn
+          </a>
+          . High five!
         </footer>
       </div>
     </div>
